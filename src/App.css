@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 50px;
+  background-color: rgb(177, 173, 230);
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  border-radius: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16p;
+  background-color: rgb(158, 229, 235);
+  border: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  text-decoration: aliceblue;
+}
